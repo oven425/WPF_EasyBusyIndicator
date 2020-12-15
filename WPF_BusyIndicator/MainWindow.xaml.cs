@@ -42,5 +42,4 @@ namespace WPF_BusyIndicator
             this.grid_mask.Visibility = Visibility.Collapsed;
         }
     }
-
 }
